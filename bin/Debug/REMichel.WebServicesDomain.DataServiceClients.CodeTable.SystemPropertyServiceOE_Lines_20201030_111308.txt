@@ -1,0 +1,6 @@
+ImportSetNumber	LineNo	ItemID	UnitQuantity	UnitOfMeasure	UnitPrice	ExtendedDescription	SourceLocationID	ShipLocationID	ProductGroupID	SupplierID	SupplierName	RequiredDate	ExpediteDate	WillCall	TaxItem	OKtoInterchange	PricingUnit	CommissionCost	OtherCost	POCost	Disposition	Scheduled	ManualPriceOverride	CommissionCostEdited	OtherCostEdited	CaptureUsage	TagandHoldClassID	ContractBinID	ContractNo	AllocationQty	PromiseDate	RevisionLevel	ResolveItemContract	Sample	QuoteLineNo	QuoteComplete	ItemDescription	InvoiceNo	InvoiceLineNo
+3323538121153	0	5H406	1		0		0	0		0								0	0	0										0									
+3323539181133	0	1X1301	1		0		0	0		0								0	0	0										0									
+3323539181133	0	5H406	1		0		0	0		0								0	0	0										0									
+3323539351162	0	5H406	1		0		0	0		0								0	0	0										0									
+3323542371159	0	5H406	2		0		0	0		0								0	0	0										0									

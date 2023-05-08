@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OrderEntryEDI.Config.AppProperties" Collapsed="true">
+    <Position X="37.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Config\AppProperties.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="REMichel.OrderEntryEDI.Controller.EDIFileWatcher" Collapsed="true">
+    <Position X="37.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAQAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controller\EDIFileWatcher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Controller.EndProcessController" Collapsed="true">
+    <Position X="42.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAgAAAAAAAAAABABAABAAQAAAAEAAAAA=</HashCode>
+      <FileName>Controller\EndProcessController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Controller.OrderProcessContoller" Collapsed="true">
+    <Position X="42.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CEAAAAAAAAAAAAAAAAAAAAAAAABAAEAAQAAAAAAAAAQ=</HashCode>
+      <FileName>Controller\OrderProcessContoller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.AbstractDataScrubber" Collapsed="true">
+    <Position X="17.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAEAAAAACAABAAGAAAAAAAAEgAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\AbstractDataScrubber .cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.DataScrubberFactory" Collapsed="true">
+    <Position X="42.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\DataScrubberFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.DefaultDataScrubber" Collapsed="true">
+    <Position X="28.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\DefaultDataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum11DataScrubber" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum11DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum16DataScrubber" Collapsed="true">
+    <Position X="6.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum16DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum1DataScrubber" Collapsed="true">
+    <Position X="10.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum1DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum33DataScrubber" Collapsed="true">
+    <Position X="15.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum33DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum34DataScrubber" Collapsed="true">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum34DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum36DataScrubber" Collapsed="true">
+    <Position X="24.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum36DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum37DataScrubber" Collapsed="true">
+    <Position X="31" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum37DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum52DataScrubber" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum52DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum61DataScrubber" Collapsed="true">
+    <Position X="8.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum61DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum64DataScrubber" Collapsed="true">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum64DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum66DataScrubber" Collapsed="true">
+    <Position X="17.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum66DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum69DataScrubber" Collapsed="true">
+    <Position X="22" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum69DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum75DataScrubber" Collapsed="true">
+    <Position X="26.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum75DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.DataScrub.CSV.SeqNum77DataScrubber" Collapsed="true">
+    <Position X="33.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\DataScrub\CSV\SeqNum77DataScrubber.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.OEHeaderBuilder.OEHeaderBuilder" Collapsed="true">
+    <Position X="39.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAABAAEIAAAAAAAEAAAA=</HashCode>
+      <FileName>FileHelpers\OEHeaderBuilder\OEHeaderBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.OrderFiller.AbstractOrderFiller" Collapsed="true">
+    <Position X="2.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAEAAAAAAAAAAAAAABAAEAAAAAAAABEAAA=</HashCode>
+      <FileName>FileHelpers\OrderFiller\AbstractOrderFiller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.OrderFiller.DefaultOrderFiller" Collapsed="true">
+    <Position X="0.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\OrderFiller\DefaultOrderFiller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.OrderFiller.OrderFillerFactory" Collapsed="true">
+    <Position X="41" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\OrderFiller\OrderFillerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.OrderFiller.SeqNum1OrderFiller" Collapsed="true">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAI=</HashCode>
+      <FileName>FileHelpers\OrderFiller\SeqNum1OrderFiller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.OrderFiller.SeqNum77OrderFiller" Collapsed="true">
+    <Position X="5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>FileHelpers\OrderFiller\SeqNum77OrderFiller.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="REMichel.OrderEntryEDI.FileHelpers.OrderWriter.OrderWriter" Collapsed="true">
+    <Position X="35.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAgAQAAAAA=</HashCode>
+      <FileName>FileHelpers\OrderWriter\OrderWriter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Parser.ANSIX12Parser" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="35.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>FileHelpers\Parser\ANSIX12Parser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="OrderEntryEDI.Parser.CSVParser" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="41" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\Parser\CSVParser.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="REMichel.OrderEntryEDI.Parser.ParserFactory" Collapsed="true">
+    <Position X="37.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\Parser\ParserFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="REMichel.OrderEntryEDI.FileHelpers.Validator.AbstractValidator" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAIAAIACAAAAAAAAAAAAAAABAAEAAAAAAAAEAAAE=</HashCode>
+      <FileName>FileHelpers\Validator\AbstractValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="REMichel.OrderEntryEDI.FileHelpers.Validator.DefaultValidator" Collapsed="true">
+    <Position X="5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\Validator\DefaultValidator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="REMichel.OrderEntryEDI.FileHelpers.Validator.SeqNum9Validator" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\Validator\SeqNum9Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="REMichel.OrderEntryEDI.FileHelpers.Validator.ValidatorFactory" Collapsed="true">
+    <Position X="42.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\Validator\ValidatorFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.Validator.SeqNum1Validator" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>FileHelpers\Validator\SeqNum1Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.FileHelpers.Validator.SeqNum77Validator" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\Validator\SeqNum77Validator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Program" Collapsed="true">
+    <Position X="41" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.Archive" Collapsed="true">
+    <Position X="39.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\Archive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.DefaultFieldAssigner" Collapsed="true">
+    <Position X="35.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\DefaultFieldAssigner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.HelperFunctions" Collapsed="true">
+    <Position X="35.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\HelperFunctions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.MichaellSonAuditBuilder" Collapsed="true">
+    <Position X="37.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\MichaellSonAuditBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.PathBuilder" Collapsed="true">
+    <Position X="39.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\PathBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.Email.AbstractEmailHandler" Collapsed="true">
+    <Position X="9.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAABAAAAAAAAAEEAAAAAAgBAAQAAAEACAAAAAgA=</HashCode>
+      <FileName>Util\Email\AbstractEmailHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.Email.DefaultEmailHandler" Collapsed="true">
+    <Position X="8.25" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\Email\DefaultEmailHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.Email.EmailBuilder" Collapsed="true">
+    <Position X="39.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAgAAAEEAAAIAAIwAAAAAAAgACBAAAACAAAABAQAggA=</HashCode>
+      <FileName>Util\Email\EmailBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.Email.EmailHandlerFactory" Collapsed="true">
+    <Position X="41" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\Email\EmailHandlerFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OrderEntryEDI.Util.Email.SeqNum49EmailHandler" Collapsed="true">
+    <Position X="10.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAQAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\Email\SeqNum49EmailHandler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="REMichel.OrderEntryEDI.Parser.IEDIParser" Collapsed="true">
+    <Position X="35.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileHelpers\Parser\IEDIParser.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
